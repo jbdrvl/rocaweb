@@ -1,0 +1,241 @@
+2018-01-03 16:10:53,106 INFO o.a.j.u.JMeterUtils: Setting Locale to en
+2018-01-03 16:10:53,121 INFO o.a.j.JMeter: Loading user properties from: /home/jb/Downloads/apache-jmeter-3.2/bin/user.properties
+2018-01-03 16:10:53,122 INFO o.a.j.JMeter: Loading system properties from: /home/jb/Downloads/apache-jmeter-3.2/bin/system.properties
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: Version 3.2 r1790748
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: java.version=1.8.0_151
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: os.name=Linux
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: os.arch=amd64
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: os.version=4.12.0-kali1-amd64
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: file.encoding=UTF-8
+2018-01-03 16:10:53,127 INFO o.a.j.JMeter: Max memory     =1791492096
+2018-01-03 16:10:53,128 INFO o.a.j.JMeter: Available Processors =4
+2018-01-03 16:10:53,131 INFO o.a.j.JMeter: Default Locale=English
+2018-01-03 16:10:53,131 INFO o.a.j.JMeter: JMeter  Locale=English
+2018-01-03 16:10:53,132 INFO o.a.j.JMeter: JMeterHome=/home/jb/Downloads/apache-jmeter-3.2
+2018-01-03 16:10:53,132 INFO o.a.j.JMeter: user.dir  =/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup
+2018-01-03 16:10:53,132 INFO o.a.j.JMeter: PWD       =/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup
+2018-01-03 16:10:53,136 INFO o.a.j.JMeter: IP: 195.154.179.210 Name: localhost.localdomain FullName: wpad
+2018-01-03 16:10:53,352 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2018-01-03 16:10:53,360 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2018-01-03 16:10:53,855 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-01-03 16:10:53,856 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-01-03 16:10:54,806 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2018-01-03 16:10:55,460 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2018-01-03 16:10:55,513 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2018-01-03 16:10:55,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-01-03 16:10:55,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-01-03 16:10:55,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-01-03 16:10:55,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2018-01-03 16:10:55,564 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2018-01-03 16:10:55,565 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2018-01-03 16:10:55,933 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2018-01-03 16:10:55,934 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /home/jb/Downloads/apache-jmeter-3.2/bin/proxyserver.jks
+2018-01-03 16:10:56,087 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2018-01-03 16:10:56,137 INFO o.a.j.s.FileServer: Default base='/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup'
+2018-01-03 16:10:56,233 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2018-01-03 16:10:56,234 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2018-01-03 16:10:56,367 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2018-01-03 16:10:56,397 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2018-01-03 16:10:56,558 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-01-03 16:10:56,558 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-01-03 16:10:56,558 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-01-03 16:10:56,559 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-01-03 16:10:56,574 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+java.lang.NoClassDefFoundError: javafx/embed/swing/JFXPanel
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_151]
+	at java.lang.Class.forName(Class.java:264) ~[?:1.8.0_151]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createComboRender(ViewResultsFullVisualizer.java:364) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createLeftPanel(ViewResultsFullVisualizer.java:332) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.init(ViewResultsFullVisualizer.java:253) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.<init>(ViewResultsFullVisualizer.java:154) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_151]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_151]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_151]
+	at org.apache.jmeter.gui.util.MenuFactory.initializeMenus(MenuFactory.java:505) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.util.MenuFactory.<clinit>(MenuFactory.java:169) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.control.gui.WorkBenchGui.createPopupMenu(WorkBenchGui.java:119) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeNode.createPopupMenu(JMeterTreeNode.java:156) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.EditCommand.doAction(EditCommand.java:46) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:74) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:59) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311) [?:1.8.0_151]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756) [?:1.8.0_151]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_151]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_151]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_151]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_151]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_151]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726) [?:1.8.0_151]
+	at org.GNOME.Accessibility.AtkWrapper$5.dispatchEvent(AtkWrapper.java:700) [java-atk-wrapper.jar:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_151]
+Caused by: java.lang.ClassNotFoundException: javafx.embed.swing.JFXPanel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_151]
+	... 33 more
+2018-01-03 16:10:59,606 INFO o.a.j.g.a.Load: Loading file: /home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup/3-3-different-users-signing-up.jmx
+2018-01-03 16:10:59,606 INFO o.a.j.s.FileServer: Set new base='/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup'
+2018-01-03 16:10:59,695 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-01-03 16:10:59,712 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-01-03 16:10:59,713 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2018-01-03 16:10:59,718 INFO o.a.j.s.SaveService: Loading file: /home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup/3-3-different-users-signing-up.jmx
+2018-01-03 16:10:59,743 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2018-01-03 16:10:59,906 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+java.lang.NoClassDefFoundError: javafx/embed/swing/JFXPanel
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_151]
+	at java.lang.Class.forName(Class.java:264) ~[?:1.8.0_151]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createComboRender(ViewResultsFullVisualizer.java:364) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createLeftPanel(ViewResultsFullVisualizer.java:332) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.init(ViewResultsFullVisualizer.java:253) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.<init>(ViewResultsFullVisualizer.java:154) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_151]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_151]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_151]
+	at org.apache.jmeter.gui.GuiPackage.getGuiFromCache(GuiPackage.java:399) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.getGui(GuiPackage.java:245) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.getGui(GuiPackage.java:216) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addComponent(JMeterTreeModel.java:145) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:121) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:113) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.addSubTree(GuiPackage.java:517) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.insertLoadedTree(Load.java:194) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:131) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:102) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.doActionAfterCheck(Load.java:89) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:74) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:59) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311) [?:1.8.0_151]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756) [?:1.8.0_151]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_151]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_151]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_151]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_151]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_151]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726) [?:1.8.0_151]
+	at org.GNOME.Accessibility.AtkWrapper$5.dispatchEvent(AtkWrapper.java:700) [java-atk-wrapper.jar:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_151]
+Caused by: java.lang.ClassNotFoundException: javafx.embed.swing.JFXPanel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_151]
+	... 40 more
+2018-01-03 16:10:59,941 INFO o.a.j.s.FileServer: Set new base='/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup'
+2018-01-03 16:11:05,785 INFO o.a.j.g.a.Load: Loading file: /home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup/3-5-installation-hackazon.jmx
+2018-01-03 16:11:05,786 INFO o.a.j.s.FileServer: Set new base='/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup'
+2018-01-03 16:11:05,786 INFO o.a.j.s.SaveService: Loading file: /home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup/3-5-installation-hackazon.jmx
+2018-01-03 16:11:05,850 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+java.lang.NoClassDefFoundError: javafx/embed/swing/JFXPanel
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_151]
+	at java.lang.Class.forName(Class.java:264) ~[?:1.8.0_151]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createComboRender(ViewResultsFullVisualizer.java:364) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createLeftPanel(ViewResultsFullVisualizer.java:332) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.init(ViewResultsFullVisualizer.java:253) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.<init>(ViewResultsFullVisualizer.java:154) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_151]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_151]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_151]
+	at org.apache.jmeter.gui.GuiPackage.getGuiFromCache(GuiPackage.java:399) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.getGui(GuiPackage.java:245) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.getGui(GuiPackage.java:216) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addComponent(JMeterTreeModel.java:145) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:121) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:113) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.addSubTree(GuiPackage.java:517) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.insertLoadedTree(Load.java:194) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:131) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:102) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.doActionAfterCheck(Load.java:89) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:74) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:59) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311) [?:1.8.0_151]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756) [?:1.8.0_151]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_151]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_151]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_151]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_151]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_151]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726) [?:1.8.0_151]
+	at org.GNOME.Accessibility.AtkWrapper$5.dispatchEvent(AtkWrapper.java:700) [java-atk-wrapper.jar:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_151]
+Caused by: java.lang.ClassNotFoundException: javafx.embed.swing.JFXPanel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_151]
+	... 40 more
+2018-01-03 16:11:05,878 INFO o.a.j.s.FileServer: Set new base='/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup'
+2018-01-03 16:11:21,658 INFO o.a.j.g.a.Load: Loading file: /home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup/3-3-different-users-signing-up.jmx
+2018-01-03 16:11:21,658 INFO o.a.j.s.FileServer: Set new base='/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup'
+2018-01-03 16:11:21,658 INFO o.a.j.s.SaveService: Loading file: /home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup/3-3-different-users-signing-up.jmx
+2018-01-03 16:11:21,835 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+java.lang.NoClassDefFoundError: javafx/embed/swing/JFXPanel
+	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_151]
+	at java.lang.Class.forName(Class.java:264) ~[?:1.8.0_151]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createComboRender(ViewResultsFullVisualizer.java:364) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.createLeftPanel(ViewResultsFullVisualizer.java:332) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.init(ViewResultsFullVisualizer.java:253) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at org.apache.jmeter.visualizers.ViewResultsFullVisualizer.<init>(ViewResultsFullVisualizer.java:154) ~[ApacheJMeter_components.jar:3.2 r1790748]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_151]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_151]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_151]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_151]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_151]
+	at org.apache.jmeter.gui.GuiPackage.getGuiFromCache(GuiPackage.java:399) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.getGui(GuiPackage.java:245) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.getGui(GuiPackage.java:216) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addComponent(JMeterTreeModel.java:145) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:121) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.tree.JMeterTreeModel.addSubTree(JMeterTreeModel.java:113) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.GuiPackage.addSubTree(GuiPackage.java:517) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.insertLoadedTree(Load.java:194) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:131) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.loadProjectFile(Load.java:102) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.Load.doActionAfterCheck(Load.java:89) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.AbstractActionWithNoRunningTest.doAction(AbstractActionWithNoRunningTest.java:45) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:74) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.gui.action.ActionRouter.lambda$actionPerformed$0(ActionRouter.java:59) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311) [?:1.8.0_151]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756) [?:1.8.0_151]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [?:1.8.0_151]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [?:1.8.0_151]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [?:1.8.0_151]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_151]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [?:1.8.0_151]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726) [?:1.8.0_151]
+	at org.GNOME.Accessibility.AtkWrapper$5.dispatchEvent(AtkWrapper.java:700) [java-atk-wrapper.jar:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [?:1.8.0_151]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [?:1.8.0_151]
+Caused by: java.lang.ClassNotFoundException: javafx.embed.swing.JFXPanel
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_151]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_151]
+	... 40 more
+2018-01-03 16:11:21,869 INFO o.a.j.s.FileServer: Set new base='/home/jb/Documents/ROCAWEB/rocaweb/rocaweb-scripts/Installation-setup'
