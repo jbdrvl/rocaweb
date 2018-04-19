@@ -1,0 +1,501 @@
+grocery_product,number,email,ipv4,mac_address,script_js,script_sql
+Sauce - Salsa,20,kmacconnal0@uol.com.br,96.89.17.71,52:58:22:A3:CD:29,error: Illegal quoting in line 1.,SELECT * FROM *
+Carbonated Water - Wildberry,11,nwitheridge1@merriam-webster.com,168.166.62.217,68:9C:07:4E:7C:74,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - French Stick,28,imeaking2@opensource.org,154.234.78.191,CD:0C:1A:EB:D9:B8,error: Illegal quoting in line 1.,SELECT * FROM *
+Jam - Apricot,18,wkelberman3@sina.com.cn,38.252.158.47,6D:EC:C0:9B:87:BA,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beef - Tenderlion, Center Cut",2,gbetteney4@blinklist.com,45.17.241.236,9D:2E:53:00:76:35,error: Illegal quoting in line 1.,SELECT * FROM *
+Praline Paste,66,etomes5@soundcloud.com,146.208.171.75,C9:8F:00:6A:32:5A,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Red, Cabernet Sauvignon",10,brummery6@icq.com,235.40.21.206,FD:1B:D6:4B:3D:CE,error: Illegal quoting in line 1.,SELECT * FROM *
+Pear - Asian,36,rmackenney7@example.com,55.218.109.229,6F:01:EA:D0:24:1C,error: Illegal quoting in line 1.,SELECT * FROM *
+Butter - Pod,36,atoping8@devhub.com,232.212.34.234,DE:E6:7B:14:79:24,error: Illegal quoting in line 1.,SELECT * FROM *
+Ostrich - Fan Fillet,37,mandrusov9@ustream.tv,128.5.204.220,DD:DF:2D:EA:AA:A2,error: Illegal quoting in line 1.,SELECT * FROM *
+Smoked Tongue,82,sguyonneta@studiopress.com,67.155.250.68,52:A9:B9:FB:5D:EA,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Italian Roll With Herbs,96,rheskinb@examiner.com,182.101.110.26,A5:DE:6D:12:53:F5,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Rye,43,kabrahamssonc@mysql.com,209.202.200.142,F9:73:26:AE:A3:09,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce - Caesar Dressing,82,wcurgenuerd@who.int,177.54.76.33,AA:A6:CB:EB:A4:85,error: Illegal quoting in line 1.,SELECT * FROM *
+Sorrel - Fresh,61,cdimberlinee@cbslocal.com,1.46.182.62,D8:0C:BF:D1:FB:C4,error: Illegal quoting in line 1.,SELECT * FROM *
+Corn - On The Cob,65,lnorthallf@umich.edu,145.199.19.79,8D:CC:60:6E:DA:A3,error: Illegal quoting in line 1.,SELECT * FROM *
+"Hickory Smoke, Liquid",98,abrodbing@gmpg.org,129.239.25.172,DA:D3:63:AA:12:BF,error: Illegal quoting in line 1.,SELECT * FROM *
+Chip - Potato Dill Pickle,70,hashingtonh@craigslist.org,18.42.220.204,4F:18:45:F4:C2:5C,error: Illegal quoting in line 1.,SELECT * FROM *
+The Pop Shoppe - Root Beer,24,sbresmani@creativecommons.org,179.187.163.15,B8:62:83:F6:39:99,error: Illegal quoting in line 1.,SELECT * FROM *
+"Tabasco Sauce, 2 Oz",34,lfortnamj@umich.edu,53.73.21.40,A9:FE:6B:E2:C1:E1,error: Illegal quoting in line 1.,SELECT * FROM *
+Yogurt - Assorted Pack,37,jwarrillowk@slashdot.org,110.19.31.4,55:6B:0A:66:83:03,error: Illegal quoting in line 1.,SELECT * FROM *
+Sole - Fillet,90,omeakingl@ebay.com,43.109.177.166,12:C4:9D:1C:CB:CA,error: Illegal quoting in line 1.,SELECT * FROM *
+Teriyaki Sauce,87,lcardillom@disqus.com,72.181.53.160,50:FD:E4:A9:C8:CC,error: Illegal quoting in line 1.,SELECT * FROM *
+Vinegar - White,98,rcraiggn@dailymail.co.uk,206.249.197.230,40:5B:47:31:9C:0A,error: Illegal quoting in line 1.,SELECT * FROM *
+Scrubbie - Scotchbrite Hand Pad,10,lcrocombeo@rediff.com,24.196.199.163,A7:F6:F5:A5:2E:DE,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Pinot Noir Mondavi Coastal,10,ceisenbergp@lycos.com,23.5.132.209,ED:29:1E:7F:B6:4C,error: Illegal quoting in line 1.,SELECT * FROM *
+Pork - Ground,53,rwaggattq@aol.com,214.126.243.170,7D:C1:D7:E0:90:61,error: Illegal quoting in line 1.,SELECT * FROM *
+"Bread - Bagels, Mini",98,mrainsdonr@github.io,178.252.92.216,27:EE:4C:79:7F:14,error: Illegal quoting in line 1.,SELECT * FROM *
+"Zucchini - Mini, Green",33,hwenningtons@so-net.ne.jp,198.214.85.1,E0:1A:AD:4A:E3:D7,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Semi Dry Riesling Vineland,16,minderwickt@prweb.com,10.186.202.10,EE:CF:14:73:F5:F3,error: Illegal quoting in line 1.,SELECT * FROM *
+Pate - Cognac,88,pduboseu@reddit.com,120.13.250.118,B1:2F:AF:3B:63:8A,error: Illegal quoting in line 1.,SELECT * FROM *
+Syrup - Monin - Blue Curacao,43,zshewringv@google.ru,68.70.48.220,1F:91:95:F8:D7:79,error: Illegal quoting in line 1.,SELECT * FROM *
+Rice - Wild,74,bolivetiw@moonfruit.com,19.155.141.242,45:D6:CC:D0:8E:69,error: Illegal quoting in line 1.,SELECT * FROM *
+Pastry - Cheese Baked Scones,84,nrubanenkox@toplist.cz,135.92.238.176,51:95:13:9F:0E:11,error: Illegal quoting in line 1.,SELECT * FROM *
+Pur Value,75,iilyenkoy@sbwire.com,153.139.106.117,AF:AE:5F:F7:D1:7A,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pepper - Paprika, Spanish",22,hburfordz@bluehost.com,165.237.229.223,3C:65:E3:B8:80:AE,error: Illegal quoting in line 1.,SELECT * FROM *
+Pork - Shoulder,92,jburborough10@example.com,177.28.200.26,68:67:BD:7F:77:5C,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Chardonnay South,91,tscotford11@hc360.com,249.64.158.37,BE:6B:6C:C2:DC:C1,error: Illegal quoting in line 1.,SELECT * FROM *
+Squeeze Bottle,42,pcurry12@taobao.com,159.164.46.242,C4:5F:73:33:80:E3,error: Illegal quoting in line 1.,SELECT * FROM *
+Sachet,64,kcymper13@opensource.org,213.197.234.66,13:39:0C:30:A2:F0,error: Illegal quoting in line 1.,SELECT * FROM *
+Lettuce - Boston Bib,82,pmilsom14@taobao.com,135.122.67.25,6C:59:A5:5A:FA:DC,error: Illegal quoting in line 1.,SELECT * FROM *
+Veal - Heart,31,jbranson15@dagondesign.com,142.61.112.254,F5:AB:79:37:01:B7,error: Illegal quoting in line 1.,SELECT * FROM *
+"Mushroom - Enoki, Dry",74,jhuncoot16@webmd.com,93.206.183.1,57:C4:E0:FB:0E:F1,error: Illegal quoting in line 1.,SELECT * FROM *
+Pepper - Chilli Seeds Mild,10,ekaygill17@mit.edu,34.108.198.63,BB:CC:8D:80:36:84,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Mascarpone,85,tbennike18@ca.gov,2.66.62.188,1C:44:F3:D5:99:85,error: Illegal quoting in line 1.,SELECT * FROM *
+Dried Peach,2,oennals19@skype.com,51.197.119.52,3B:17:8E:1C:1E:DE,error: Illegal quoting in line 1.,SELECT * FROM *
+Cake - Night And Day Choclate,44,pspinney1a@senate.gov,179.113.248.157,F1:18:EC:C8:7D:28,error: Illegal quoting in line 1.,SELECT * FROM *
+Salt - Kosher,15,ibarnhill1b@chron.com,168.204.241.176,45:F9:4E:3A:D6:32,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Brie,72,drichin1c@ucla.edu,26.21.142.182,A5:75:02:45:15:D0,error: Illegal quoting in line 1.,SELECT * FROM *
+"Yeast - Fresh, Fleischman",28,dbathoe1d@dell.com,75.166.253.228,FE:AD:9F:4D:C7:89,error: Illegal quoting in line 1.,SELECT * FROM *
+V8 - Berry Blend,50,jdoby1e@soundcloud.com,230.141.217.150,75:A7:AE:C8:CF:EF,error: Illegal quoting in line 1.,SELECT * FROM *
+Cream - 10%,1,olegh1f@google.de,192.156.234.106,6E:4C:0C:D7:F8:55,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beef - Kindney, Whole",8,pbastow1g@japanpost.jp,53.21.147.8,62:B0:5B:46:2A:F0,error: Illegal quoting in line 1.,SELECT * FROM *
+Nantucket Orange Juice,54,thandasyde1h@digg.com,161.9.90.40,F3:85:71:82:34:F7,error: Illegal quoting in line 1.,SELECT * FROM *
+Propel Sport Drink,44,bcarlile1i@marketwatch.com,14.79.156.194,43:F9:5A:B5:5A:5F,error: Illegal quoting in line 1.,SELECT * FROM *
+Crawfish,16,nbodycomb1j@bbc.co.uk,68.92.85.186,D6:7B:91:02:11:B9,error: Illegal quoting in line 1.,SELECT * FROM *
+Garlic - Elephant,44,pstrathdee1k@wikimedia.org,1.209.20.38,94:0B:96:2B:1F:8A,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - White, Gewurtzraminer",12,dlodevick1l@abc.net.au,5.62.70.37,B7:AC:20:14:D9:65,error: Illegal quoting in line 1.,SELECT * FROM *
+"Chicken - Leg, Fresh",3,adorsay1m@aboutads.info,102.225.57.207,78:08:13:B3:C1:5B,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Piper Heidsieck Brut,13,eclapp1n@cdc.gov,201.110.215.224,AC:94:69:17:2F:8F,error: Illegal quoting in line 1.,SELECT * FROM *
+Cotton Wet Mop 16 Oz,69,ssedgmond1o@va.gov,74.239.189.13,72:54:85:78:34:B2,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Acient Coast Caberne,15,nspiers1p@virginia.edu,49.135.158.171,CD:E5:EA:4E:03:C0,error: Illegal quoting in line 1.,SELECT * FROM *
+Onions - Cooking,5,bhopkynson1q@gravatar.com,84.193.178.66,E9:91:E7:F6:59:60,error: Illegal quoting in line 1.,SELECT * FROM *
+"Lamb - Leg, Boneless",34,csimonaitis1r@weebly.com,154.132.201.131,1A:3B:9F:C8:59:18,error: Illegal quoting in line 1.,SELECT * FROM *
+Carroway Seed,81,slotte1s@google.ru,56.179.29.74,EA:17:18:CC:86:28,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce Tomato Pouch,3,mbausor1t@epa.gov,130.20.66.34,77:F5:84:A9:43:39,error: Illegal quoting in line 1.,SELECT * FROM *
+Steamers White,28,pgoulding1u@soundcloud.com,239.227.34.129,E3:1D:DF:02:AD:E4,error: Illegal quoting in line 1.,SELECT * FROM *
+"Crab - Dungeness, Whole",45,rlyfe1v@surveymonkey.com,108.203.3.73,2B:C0:3F:29:A5:54,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Beaujolais Villages,51,lwoolhouse1w@soundcloud.com,61.201.212.198,9F:80:74:9A:FE:BD,error: Illegal quoting in line 1.,SELECT * FROM *
+Miso Paste White,80,emordaunt1x@netvibes.com,162.160.225.107,50:86:97:02:60:16,error: Illegal quoting in line 1.,SELECT * FROM *
+Mudslide,27,ssnoddon1y@soup.io,102.221.200.188,15:58:74:0A:D4:EE,error: Illegal quoting in line 1.,SELECT * FROM *
+Beef - Top Sirloin,96,mpadginton1z@amazon.co.uk,130.198.250.80,A5:5C:9A:7D:44:D2,error: Illegal quoting in line 1.,SELECT * FROM *
+Pie Shell - 5,16,rdunnet20@usa.gov,31.186.100.131,9E:D0:57:66:A2:85,error: Illegal quoting in line 1.,SELECT * FROM *
+Oil - Canola,28,lsexcey21@purevolume.com,24.81.175.120,12:89:B6:B7:6D:08,error: Illegal quoting in line 1.,SELECT * FROM *
+"Basil - Primerba, Paste",46,sstokell22@smh.com.au,62.99.97.223,10:DB:05:C6:A9:70,error: Illegal quoting in line 1.,SELECT * FROM *
+Chocolate Bar - Smarties,75,jlockery23@ucoz.ru,253.119.91.144,45:34:23:6A:82:65,error: Illegal quoting in line 1.,SELECT * FROM *
+"Chicken - Breast, 5 - 7 Oz",68,elysaght24@prlog.org,62.208.19.190,51:5E:9E:DB:41:7D,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Parmesan Grated,83,bgaule25@utexas.edu,25.244.7.85,5A:DB:E2:AF:1D:C0,error: Illegal quoting in line 1.,SELECT * FROM *
+Pastry - Butterscotch Baked,53,dwalworche26@weebly.com,67.56.240.138,64:EA:7E:FA:0D:7B,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Gewurztraminer Pierre,10,dtripp27@spotify.com,220.47.6.115,88:B6:B2:E4:E6:D3,error: Illegal quoting in line 1.,SELECT * FROM *
+Shopper Bag - S - 4,91,ndymott28@hp.com,19.63.30.7,36:93:C8:9A:D2:A7,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pasta - Spaghetti, Dry",33,lmaccrachen29@drupal.org,41.78.166.215,A5:71:22:B2:C4:C2,error: Illegal quoting in line 1.,SELECT * FROM *
+Coriander - Ground,55,swishkar2a@simplemachines.org,103.220.128.35,DD:42:34:6A:AE:97,error: Illegal quoting in line 1.,SELECT * FROM *
+Scallops 60/80 Iqf,61,pmoen2b@ihg.com,93.159.91.109,44:35:7D:6A:75:F0,error: Illegal quoting in line 1.,SELECT * FROM *
+Mace,27,ipargeter2c@networksolutions.com,127.180.109.126,44:74:9A:F8:BB:AA,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Pumpernickel,16,ftixall2d@studiopress.com,94.105.148.192,56:12:AB:C0:47:0E,error: Illegal quoting in line 1.,SELECT * FROM *
+"Rum - Spiced, Captain Morgan",68,hmacane2e@51.la,150.234.184.214,0B:1A:44:D3:F3:26,error: Illegal quoting in line 1.,SELECT * FROM *
+Pork - Kidney,92,mkellogg2f@ebay.co.uk,208.15.64.209,D2:D5:28:12:6B:A5,error: Illegal quoting in line 1.,SELECT * FROM *
+"Jam - Blackberry, 20 Ml Jar",88,jgoodsal2g@marriott.com,151.193.33.18,33:76:BB:69:AD:83,error: Illegal quoting in line 1.,SELECT * FROM *
+Muffin - Bran Ind Wrpd,32,koldmeadow2h@irs.gov,202.62.45.89,C1:4A:C6:54:DD:C1,error: Illegal quoting in line 1.,SELECT * FROM *
+Pepper - Chilli Seeds Mild,54,ndally2i@vistaprint.com,97.68.167.113,58:4F:D1:1B:F0:24,error: Illegal quoting in line 1.,SELECT * FROM *
+Mushroom Morel Fresh,86,cshirland2j@umich.edu,114.203.154.76,C8:34:FE:1D:02:00,error: Illegal quoting in line 1.,SELECT * FROM *
+Muskox - French Rack,97,hnaughton2k@163.com,207.170.230.84,4B:17:1D:32:08:67,error: Illegal quoting in line 1.,SELECT * FROM *
+Filo Dough,94,serskin2l@amazon.co.uk,181.82.147.16,FC:E7:3A:82:09:6F,error: Illegal quoting in line 1.,SELECT * FROM *
+Garlic,9,bhanton2m@geocities.com,195.195.110.239,A1:8C:43:B6:39:A5,error: Illegal quoting in line 1.,SELECT * FROM *
+Mustard Prepared,70,hebsworth2n@shareasale.com,168.27.115.164,0C:D0:62:68:E1:37,error: Illegal quoting in line 1.,SELECT * FROM *
+Container - Hngd Cll Blk 7x7x3,82,clevinge2o@ameblo.jp,103.13.59.141,C8:3B:EB:50:CC:CD,error: Illegal quoting in line 1.,SELECT * FROM *
+"Soup - Knorr, Chicken Gumbo",58,bcancellor2p@washingtonpost.com,135.202.222.194,04:D2:87:67:2B:EB,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce - Hoisin,79,dtreadgold2q@etsy.com,138.63.129.120,82:C9:DE:F2:76:C3,error: Illegal quoting in line 1.,SELECT * FROM *
+"Rum - Light, Captain Morgan",23,pfishley2r@dropbox.com,172.84.52.59,07:F7:F5:5C:4B:9D,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Le Cheve Noir,45,skenningley2s@hp.com,149.215.238.50,4C:3A:1C:B6:0B:DD,error: Illegal quoting in line 1.,SELECT * FROM *
+Vinegar - White,25,tvise2t@sourceforge.net,72.113.83.159,91:1F:A7:4E:AC:3E,error: Illegal quoting in line 1.,SELECT * FROM *
+"Sauce - Soya, Light",100,tsimek2u@oaic.gov.au,86.99.40.93,7A:E7:A2:C3:41:2C,error: Illegal quoting in line 1.,SELECT * FROM *
+White Baguette,13,agibbieson2v@mayoclinic.com,119.150.131.234,87:4F:CC:4F:B4:22,error: Illegal quoting in line 1.,SELECT * FROM *
+Container Clear 8 Oz,76,fbeechcraft2w@qq.com,160.212.5.167,53:75:6E:90:8B:2D,error: Illegal quoting in line 1.,SELECT * FROM *
+Carrots - Jumbo,70,lulyet2x@bing.com,231.8.241.217,FC:69:B1:E4:E8:2F,error: Illegal quoting in line 1.,SELECT * FROM *
+Soup - Campbellschix Stew,89,mmatthieson2y@google.ca,84.109.66.205,C8:7D:24:00:82:98,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce - Thousand Island,33,vyurov2z@geocities.jp,6.184.179.248,F6:34:3E:99:F2:62,error: Illegal quoting in line 1.,SELECT * FROM *
+Mackerel Whole Fresh,53,zbeckingham30@narod.ru,225.191.220.90,F9:C9:60:C9:39:2E,error: Illegal quoting in line 1.,SELECT * FROM *
+Juice - Lime,60,sdaveran31@sogou.com,207.31.166.129,CC:31:FA:FC:58:AA,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Hot Dog Buns,21,kzoephel32@com.com,78.118.129.77,FA:69:44:9F:77:E6,error: Illegal quoting in line 1.,SELECT * FROM *
+Five Alive Citrus,51,cshepley33@google.com,23.34.189.198,DD:4C:FE:1E:AC:84,error: Illegal quoting in line 1.,SELECT * FROM *
+"Bread - Roll, Calabrese",44,dtomaselli34@addthis.com,119.36.250.218,53:13:5D:EF:A9:71,error: Illegal quoting in line 1.,SELECT * FROM *
+"Basil - Dry, Rubbed",20,rbastiman35@t-online.de,148.56.241.37,DE:6B:43:EA:A9:B4,error: Illegal quoting in line 1.,SELECT * FROM *
+Cactus Pads,83,rcathery36@imdb.com,161.7.137.246,2D:7F:26:B6:F7:4D,error: Illegal quoting in line 1.,SELECT * FROM *
+Olives - Stuffed,73,btrebilcock37@narod.ru,123.71.204.12,E4:38:AA:30:69:71,error: Illegal quoting in line 1.,SELECT * FROM *
+"Mustard - Dry, Powder",30,churcombe38@zdnet.com,67.138.64.86,74:02:62:C7:00:76,error: Illegal quoting in line 1.,SELECT * FROM *
+Heavy Duty Dust Pan,21,pdumingo39@about.com,201.80.131.82,29:90:F6:29:59:1F,error: Illegal quoting in line 1.,SELECT * FROM *
+Longos - Burritos,89,ecarlyon3a@joomla.org,67.97.98.140,89:E5:6F:FF:FE:C9,error: Illegal quoting in line 1.,SELECT * FROM *
+Filling - Mince Meat,24,ewehner3b@trellian.com,13.91.79.203,A0:F3:46:AF:BB:87,error: Illegal quoting in line 1.,SELECT * FROM *
+Mushroom Morel Fresh,85,dfrith3c@usnews.com,34.70.146.182,50:F2:9A:54:A4:28,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pork - Tenderloin, Frozen",77,mvanezis3d@github.com,167.105.67.26,EB:1C:10:80:5E:F7,error: Illegal quoting in line 1.,SELECT * FROM *
+Rootbeer,96,gianne3e@opera.com,240.86.237.151,24:08:EC:30:F8:02,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Red, Gamay Noir",5,lshingler3f@ox.ac.uk,20.218.86.113,37:90:1B:4D:2D:8B,error: Illegal quoting in line 1.,SELECT * FROM *
+Oyster - In Shell,97,cclute3g@smh.com.au,2.176.211.36,AC:67:81:DD:05:DA,error: Illegal quoting in line 1.,SELECT * FROM *
+Juice - Apple 284ml,47,jchrismas3h@ovh.net,93.35.169.113,B4:39:0A:5E:DF:01,error: Illegal quoting in line 1.,SELECT * FROM *
+Lettuce - Boston Bib - Organic,77,lunderdown3i@prweb.com,177.68.40.212,94:FB:3D:C2:9C:A4,error: Illegal quoting in line 1.,SELECT * FROM *
+Prunes - Pitted,54,kmarcus3j@wikispaces.com,165.38.17.175,4B:D4:92:05:5B:9B,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Red, Mosaic Zweigelt",14,cgingles3k@un.org,144.92.108.60,3D:90:C5:F8:E1:A2,error: Illegal quoting in line 1.,SELECT * FROM *
+Beans - Soya Bean,41,msatch3l@rambler.ru,29.2.235.49,0F:27:37:49:8B:C2,error: Illegal quoting in line 1.,SELECT * FROM *
+Mushrooms - Honey,34,efarrar3m@google.it,25.185.25.99,36:DB:07:DC:74:4D,error: Illegal quoting in line 1.,SELECT * FROM *
+Red Currants,71,mpollicatt3n@tuttocitta.it,45.41.36.192,58:9B:2D:A2:63:F5,error: Illegal quoting in line 1.,SELECT * FROM *
+Huck White Towels,85,lirlam3o@hp.com,95.230.19.202,45:59:52:0F:EC:C5,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Pumpernickel,28,rwittier3p@ucla.edu,14.222.231.202,EF:99:71:F1:DE:D3,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Barolo Fontanafredda,39,apeffer3q@prlog.org,247.240.169.168,2E:30:49:CC:B2:D6,error: Illegal quoting in line 1.,SELECT * FROM *
+Flower - Potmums,50,nneiland3r@jugem.jp,19.217.114.219,F1:BC:69:7D:57:10,error: Illegal quoting in line 1.,SELECT * FROM *
+Fork - Plastic,4,kcosby3s@ed.gov,98.34.57.217,A1:E9:55:84:82:F4,error: Illegal quoting in line 1.,SELECT * FROM *
+Bagel - Sesame Seed Presliced,55,dendecott3t@wufoo.com,18.20.232.105,2B:27:45:C6:1B:B8,error: Illegal quoting in line 1.,SELECT * FROM *
+Marjoram - Fresh,95,dandretti3u@fc2.com,218.249.197.150,CD:E5:8C:E3:F8:FE,error: Illegal quoting in line 1.,SELECT * FROM *
+Milk - 2% 250 Ml,98,rplaskett3v@elpais.com,191.157.12.95,BD:54:3C:B5:78:B5,error: Illegal quoting in line 1.,SELECT * FROM *
+Strawberries - California,34,jcaze3w@redcross.org,252.233.157.255,2C:F9:23:81:37:C9,error: Illegal quoting in line 1.,SELECT * FROM *
+Okra,70,nreading3x@cisco.com,215.243.254.178,BC:1E:BF:66:60:0E,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Rosemary Focaccia,48,chulburd3y@state.tx.us,131.116.8.27,8B:D6:04:6C:16:9E,error: Illegal quoting in line 1.,SELECT * FROM *
+Sprouts - China Rose,34,rdudlestone3z@toplist.cz,191.134.158.65,D1:41:FB:1B:02:6F,error: Illegal quoting in line 1.,SELECT * FROM *
+"Oregano - Dry, Rubbed",5,hizat40@prlog.org,64.108.195.76,1A:2F:62:8D:EF:FB,error: Illegal quoting in line 1.,SELECT * FROM *
+"Oil - Shortening,liqud, Fry",74,kgoulder41@sitemeter.com,55.55.194.202,F5:34:A8:5A:BF:F3,error: Illegal quoting in line 1.,SELECT * FROM *
+Pork Loin Bine - In Frenched,97,bboffey42@people.com.cn,146.157.153.154,1D:52:DA:C7:5D:B0,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Bakers Cream Cheese,27,cdogerty43@arizona.edu,193.213.151.123,6F:D1:FD:E7:D2:E8,error: Illegal quoting in line 1.,SELECT * FROM *
+Pepper - Roasted Red,83,thadenton44@mapy.cz,220.6.70.215,75:75:2C:31:96:85,error: Illegal quoting in line 1.,SELECT * FROM *
+Sugar - Brown,20,eabbots45@springer.com,209.236.82.229,F0:EB:38:7B:B0:3C,error: Illegal quoting in line 1.,SELECT * FROM *
+Milk 2% 500 Ml,43,pyoung46@microsoft.com,248.177.146.29,AB:F7:1F:C2:57:89,error: Illegal quoting in line 1.,SELECT * FROM *
+"Tomatoes - Cherry, Yellow",34,wcancutt47@pinterest.com,193.23.175.108,B2:5B:0F:0F:0C:80,error: Illegal quoting in line 1.,SELECT * FROM *
+Potatoes - Fingerling 4 Oz,25,psharples48@washington.edu,89.245.95.25,B3:57:81:7F:C9:10,error: Illegal quoting in line 1.,SELECT * FROM *
+Mini - Vol Au Vents,97,kasch49@zdnet.com,110.67.163.244,E4:D8:66:B9:DD:16,error: Illegal quoting in line 1.,SELECT * FROM *
+Gloves - Goldtouch Disposable,16,dsouthey4a@msn.com,62.86.139.61,32:D7:EF:C8:82:B2,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beef - Bones, Cut - Up",90,ynajera4b@nsw.gov.au,132.57.69.232,D6:BF:5E:73:86:D9,error: Illegal quoting in line 1.,SELECT * FROM *
+"Doilies - 12, Paper",7,ajedrychowski4c@pinterest.com,201.64.173.43,18:6C:81:B5:87:CA,error: Illegal quoting in line 1.,SELECT * FROM *
+Cake - Mini Potato Pancake,36,lcalcraft4d@mashable.com,240.111.33.126,99:BF:8B:07:05:9F,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce - Hoisin,70,halwin4e@g.co,148.6.114.204,B9:7A:B8:24:71:58,error: Illegal quoting in line 1.,SELECT * FROM *
+Worcestershire Sauce,3,hmcgill4f@sfgate.com,8.89.78.179,ED:1C:8B:BA:75:04,error: Illegal quoting in line 1.,SELECT * FROM *
+Mustard Prepared,13,cgumley4g@ucla.edu,25.199.114.7,11:D6:60:11:53:9C,error: Illegal quoting in line 1.,SELECT * FROM *
+Compound - Orange,23,cscamel4h@washingtonpost.com,213.188.123.143,36:18:0D:83:E4:5D,error: Illegal quoting in line 1.,SELECT * FROM *
+Garlic - Elephant,65,ghampson4i@paginegialle.it,49.111.163.17,AC:40:30:92:21:3A,error: Illegal quoting in line 1.,SELECT * FROM *
+Mussels - Cultivated,25,asalaman4j@flickr.com,23.91.138.111,55:44:A8:9A:AD:B3,error: Illegal quoting in line 1.,SELECT * FROM *
+Liquid Aminios Acid - Braggs,94,amithon4k@360.cn,166.167.122.108,AB:6F:74:46:B8:ED,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Multigrain Oval,99,gansill4l@house.gov,142.132.242.149,C9:77:37:A3:BD:25,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Maipo Valle Cabernet,21,cloughton4m@blogtalkradio.com,111.66.39.27,C6:3F:96:87:EC:6C,error: Illegal quoting in line 1.,SELECT * FROM *
+Gooseberry,76,bhubbucks4n@acquirethisname.com,170.122.223.148,96:7B:F0:FE:88:0E,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pineapple - Canned, Rings",6,bgwilt4o@elegantthemes.com,150.160.224.84,62:79:77:4F:82:6D,error: Illegal quoting in line 1.,SELECT * FROM *
+Liners - Baking Cups,66,sgeorgi4p@tmall.com,79.10.189.188,48:08:C8:EE:7F:E3,error: Illegal quoting in line 1.,SELECT * FROM *
+Tuna - Sushi Grade,12,dsalan4q@shop-pro.jp,159.193.89.168,80:CF:72:EE:9E:F5,error: Illegal quoting in line 1.,SELECT * FROM *
+Macaroons - Two Bite Choc,4,rmitchard4r@sogou.com,69.224.58.58,56:A6:B4:BF:5E:98,error: Illegal quoting in line 1.,SELECT * FROM *
+Pork - Bacon Cooked Slcd,62,dmckelloch4s@cisco.com,38.203.93.146,23:A3:34:4D:6E:16,error: Illegal quoting in line 1.,SELECT * FROM *
+"Bread - White, Sliced",73,rtoma4t@gravatar.com,255.164.32.77,7E:F1:9E:FF:6A:0D,error: Illegal quoting in line 1.,SELECT * FROM *
+Soup - Campbells Mushroom,84,hpinchen4u@gov.uk,38.120.187.116,6C:5C:C4:18:AF:7E,error: Illegal quoting in line 1.,SELECT * FROM *
+Lady Fingers,6,grideout4v@hibu.com,49.244.24.12,05:01:E5:0B:E5:75,error: Illegal quoting in line 1.,SELECT * FROM *
+Yukon Jack,68,ttroop4w@acquirethisname.com,133.52.152.77,DD:AF:52:E0:73:B7,error: Illegal quoting in line 1.,SELECT * FROM *
+Crackers - Melba Toast,13,gthurbon4x@marketwatch.com,54.57.5.197,96:19:66:77:28:AB,error: Illegal quoting in line 1.,SELECT * FROM *
+"Tortillas - Flour, 10",50,bcheckley4y@odnoklassniki.ru,20.28.4.142,14:78:08:03:3A:9E,error: Illegal quoting in line 1.,SELECT * FROM *
+Figs,23,lsleeny4z@dyndns.org,41.13.210.175,49:CD:8D:05:56:1F,error: Illegal quoting in line 1.,SELECT * FROM *
+"Lid - 10,12,16 Oz",52,gseear50@bloomberg.com,141.79.114.181,BA:F5:89:14:C0:E5,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese Cloth No 60,79,fseedhouse51@cornell.edu,19.80.78.158,36:4E:80:73:72:C6,error: Illegal quoting in line 1.,SELECT * FROM *
+"Thyme - Lemon, Fresh",21,sansley52@furl.net,109.39.137.135,43:49:DC:4B:FE:02,error: Illegal quoting in line 1.,SELECT * FROM *
+Foam Dinner Plate,48,dgurry53@nationalgeographic.com,249.84.122.141,C7:24:92:3C:6A:06,error: Illegal quoting in line 1.,SELECT * FROM *
+Garlic - Elephant,47,oeschelle54@sun.com,216.156.222.30,DD:4E:82:D1:7C:B8,error: Illegal quoting in line 1.,SELECT * FROM *
+"Mushrooms - Black, Dried",76,omenci55@fc2.com,13.44.35.33,CD:27:26:CE:92:6F,error: Illegal quoting in line 1.,SELECT * FROM *
+Worcestershire Sauce,37,hduthy56@com.com,160.102.159.109,59:B6:06:01:78:10,error: Illegal quoting in line 1.,SELECT * FROM *
+Bok Choy - Baby,100,ebaigent57@pbs.org,20.223.246.105,EF:24:28:AD:21:39,error: Illegal quoting in line 1.,SELECT * FROM *
+Marjoram - Fresh,89,wlaker58@howstuffworks.com,202.147.212.29,B4:64:D9:34:7F:F2,error: Illegal quoting in line 1.,SELECT * FROM *
+Oil - Shortening - All - Purpose,45,gcluet59@techcrunch.com,210.163.178.149,62:33:08:0C:8C:98,error: Illegal quoting in line 1.,SELECT * FROM *
+Creme De Banane - Marie,9,bdunseath5a@msn.com,146.249.246.36,F0:F1:18:AB:2C:9D,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Lou Black Shiraz,87,tbrandts5b@squidoo.com,149.95.90.128,29:5F:0E:48:2F:97,error: Illegal quoting in line 1.,SELECT * FROM *
+Pastry - Apple Large,76,nthornhill5c@marketwatch.com,122.42.80.67,75:14:81:D7:B4:88,error: Illegal quoting in line 1.,SELECT * FROM *
+Beef Ground Medium,15,wblaker5d@marketwatch.com,120.9.246.95,26:35:70:14:B2:6B,error: Illegal quoting in line 1.,SELECT * FROM *
+Tea - Decaf 1 Cup,80,tkellet5e@networkadvertising.org,210.201.82.85,54:BB:66:EA:50:51,error: Illegal quoting in line 1.,SELECT * FROM *
+"Turkey - Breast, Double",24,pkinde5f@whitehouse.gov,125.71.169.250,20:75:E6:8E:1A:D5,error: Illegal quoting in line 1.,SELECT * FROM *
+Potatoes - Pei 10 Oz,37,hcrosham5g@cbc.ca,73.0.102.234,6F:E2:32:DF:8E:AD,error: Illegal quoting in line 1.,SELECT * FROM *
+Table Cloth 62x120 Colour,70,pmanuely5h@diigo.com,102.158.249.144,9D:77:9B:42:58:B3,error: Illegal quoting in line 1.,SELECT * FROM *
+Turkey Leg With Drum And Thigh,64,adany5i@etsy.com,165.174.6.159,05:96:EA:AB:B3:4D,error: Illegal quoting in line 1.,SELECT * FROM *
+Goat - Leg,88,parrow5j@netlog.com,82.167.14.203,59:AD:AF:A7:1F:2D,error: Illegal quoting in line 1.,SELECT * FROM *
+Duck - Breast,63,jperris5k@istockphoto.com,80.150.165.127,9E:E8:26:E8:AF:32,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - White Epi Baguette,65,gspridgen5l@state.gov,1.122.6.217,97:90:6F:E9:15:5A,error: Illegal quoting in line 1.,SELECT * FROM *
+Liquid Aminios Acid - Braggs,100,lcaulkett5m@oaic.gov.au,84.48.167.71,52:C3:FD:F3:0E:F4,error: Illegal quoting in line 1.,SELECT * FROM *
+Oats Large Flake,32,bmacvicar5n@newsvine.com,237.77.49.202,45:B2:B0:C0:0F:C2,error: Illegal quoting in line 1.,SELECT * FROM *
+"Yeast - Fresh, Fleischman",45,jspackman5o@angelfire.com,95.143.121.159,47:14:33:CE:96:8D,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Chateau Bonnet,48,bmakin5p@blog.com,80.59.1.207,56:D0:8B:C0:35:6A,error: Illegal quoting in line 1.,SELECT * FROM *
+Buffalo - Short Rib Fresh,92,cmcgillacoell5q@wikimedia.org,167.252.11.33,C1:F4:C2:75:71:51,error: Illegal quoting in line 1.,SELECT * FROM *
+Lychee - Canned,19,ldimmack5r@ezinearticles.com,180.94.29.130,04:4F:26:25:61:31,error: Illegal quoting in line 1.,SELECT * FROM *
+Tamarind Paste,4,mvears5s@taobao.com,62.85.54.231,74:88:F8:E1:90:54,error: Illegal quoting in line 1.,SELECT * FROM *
+Stock - Fish,99,ohughlin5t@over-blog.com,219.66.217.7,8D:CC:BE:0D:61:A5,error: Illegal quoting in line 1.,SELECT * FROM *
+Milk - Buttermilk,41,mclarycott5u@blogs.com,120.248.226.250,6E:23:5A:44:40:1C,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Cave Springs Dry Riesling,66,dezzell5v@w3.org,104.19.242.246,29:9C:4A:2C:E8:E4,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Taylors Reserve,32,tauletta5w@biglobe.ne.jp,25.166.70.4,E8:37:AF:FF:0F:CA,error: Illegal quoting in line 1.,SELECT * FROM *
+Table Cloth - 53x69 Colour,71,vlorroway5x@wikimedia.org,42.243.236.137,76:7E:43:B0:1B:82,error: Illegal quoting in line 1.,SELECT * FROM *
+"Fish - Soup Base, Bouillon",3,cansett5y@foxnews.com,193.194.39.219,96:04:BD:24:5D:55,error: Illegal quoting in line 1.,SELECT * FROM *
+Cranberry Foccacia,39,rnevison5z@shop-pro.jp,163.182.66.236,53:9A:2A:D4:8B:FA,error: Illegal quoting in line 1.,SELECT * FROM *
+"Bread - Roll, Soft White Round",15,ividgen60@vistaprint.com,198.89.60.110,D4:FC:EE:2B:AA:E1,error: Illegal quoting in line 1.,SELECT * FROM *
+Ginger - Crystalized,73,cmilner61@hao123.com,125.245.138.4,26:00:79:B7:B2:92,error: Illegal quoting in line 1.,SELECT * FROM *
+Anchovy In Oil,37,zwoodham62@4shared.com,18.42.205.248,5D:72:9C:C9:B2:AE,error: Illegal quoting in line 1.,SELECT * FROM *
+Veal - Bones,68,tbrevetor63@cafepress.com,105.235.70.4,41:1C:E3:98:EA:4D,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pepper - White, Whole",12,socuddie64@mail.ru,46.192.144.198,B6:56:0C:4A:76:CA,error: Illegal quoting in line 1.,SELECT * FROM *
+Green Scrubbie Pad H.duty,42,edrayton65@smugmug.com,201.89.180.113,2E:BB:66:54:77:00,error: Illegal quoting in line 1.,SELECT * FROM *
+"Salmon - Atlantic, No Skin",8,lpimblott66@google.de,249.59.15.133,F0:1B:6D:03:B7:B3,error: Illegal quoting in line 1.,SELECT * FROM *
+Lid Tray - 12in Dome,32,mform67@wufoo.com,90.40.249.64,03:EC:0E:76:5D:A2,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Red, Cabernet Merlot",27,fomar68@bigcartel.com,164.150.85.181,B6:93:5D:6D:A7:87,error: Illegal quoting in line 1.,SELECT * FROM *
+Nutmeg - Ground,3,plippiett69@paginegialle.it,210.77.121.33,F2:24:31:17:C1:95,error: Illegal quoting in line 1.,SELECT * FROM *
+Devonshire Cream,83,icawcutt6a@simplemachines.org,206.168.86.128,58:70:80:CE:4A:5F,error: Illegal quoting in line 1.,SELECT * FROM *
+"Shrimp - 16/20, Iqf, Shell On",26,tbartkiewicz6b@dell.com,233.13.106.139,09:CC:35:6E:29:56,error: Illegal quoting in line 1.,SELECT * FROM *
+Steel Wool,97,lhindenburg6c@dailymail.co.uk,74.3.42.76,E4:D4:76:4B:7E:70,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Kwv Chenin Blanc South,77,eabramovic6d@twitter.com,65.88.220.227,13:55:43:B4:31:91,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pork - Ham, Virginia",29,bcella6e@census.gov,41.116.114.158,AC:76:81:EF:34:77,error: Illegal quoting in line 1.,SELECT * FROM *
+"Chilli Paste, Sambal Oelek",3,lforst6f@purevolume.com,244.182.88.147,79:99:92:DA:8D:0F,error: Illegal quoting in line 1.,SELECT * FROM *
+"Napkin - Cocktail,beige 2 - Ply",41,pgreiser6g@nasa.gov,191.30.212.153,35:97:72:63:2F:A7,error: Illegal quoting in line 1.,SELECT * FROM *
+Lamb - Rack,99,dmellows6h@g.co,148.252.202.212,E9:BE:23:B1:35:81,error: Illegal quoting in line 1.,SELECT * FROM *
+Skewers - Bamboo,21,cselbach6i@uiuc.edu,189.74.121.83,E0:5E:8E:02:40:38,error: Illegal quoting in line 1.,SELECT * FROM *
+"Juice - Orange, 341 Ml",60,rfegan6j@apache.org,187.200.192.12,7F:EE:A2:A1:25:F9,error: Illegal quoting in line 1.,SELECT * FROM *
+Straws - Cocktale,1,jlightbowne6k@simplemachines.org,14.242.190.106,A2:BE:A0:4B:19:03,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread Ww Cluster,32,calejandri6l@1und1.de,30.204.193.51,AC:9A:9C:09:17:41,error: Illegal quoting in line 1.,SELECT * FROM *
+Leeks - Large,17,sfrazer6m@cloudflare.com,27.35.116.231,93:E8:82:89:7D:3E,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Segura Viudas Aria Brut,84,aminghi6n@nymag.com,82.140.96.227,43:85:2F:A1:CC:02,error: Illegal quoting in line 1.,SELECT * FROM *
+Beer - Molson Excel,31,marthur6o@webnode.com,213.176.250.25,79:35:DD:B1:EB:6E,error: Illegal quoting in line 1.,SELECT * FROM *
+Straws - Cocktale,48,cortmann6p@bing.com,119.205.87.24,BF:F7:C7:74:2F:29,error: Illegal quoting in line 1.,SELECT * FROM *
+Towels - Paper / Kraft,62,ccohrs6q@springer.com,242.139.102.116,77:97:DA:89:B3:0A,error: Illegal quoting in line 1.,SELECT * FROM *
+Foil Wrap,52,jmcaleese6r@wufoo.com,108.1.213.143,FA:6C:E8:C5:56:F5,error: Illegal quoting in line 1.,SELECT * FROM *
+"Halibut - Whole, Fresh",87,mbotha6s@g.co,115.5.73.137,8C:27:FD:F8:07:A5,error: Illegal quoting in line 1.,SELECT * FROM *
+Fruit Mix - Light,13,jnoden6t@godaddy.com,243.65.225.209,08:60:70:96:AD:FD,error: Illegal quoting in line 1.,SELECT * FROM *
+Dried Cranberries,45,rpappi6u@sogou.com,215.143.175.250,01:3A:B3:DC:47:DB,error: Illegal quoting in line 1.,SELECT * FROM *
+Tray - 16in Rnd Blk,26,ekiendl6v@phoca.cz,22.122.43.224,3C:6F:A1:45:F0:8E,error: Illegal quoting in line 1.,SELECT * FROM *
+Dried Figs,24,bfey6w@si.edu,67.234.207.3,B6:37:D7:C6:5B:7B,error: Illegal quoting in line 1.,SELECT * FROM *
+Bar Nature Valley,88,odinneges6x@dailymail.co.uk,108.153.206.66,71:71:38:E4:8D:B5,error: Illegal quoting in line 1.,SELECT * FROM *
+Tamarillo,79,rhucquart6y@omniture.com,154.254.33.11,F1:D1:3F:05:A0:04,error: Illegal quoting in line 1.,SELECT * FROM *
+Vegetable - Base,81,racarson6z@hostgator.com,142.208.66.128,FD:8D:63:96:B8:4B,error: Illegal quoting in line 1.,SELECT * FROM *
+Cabbage - Savoy,22,sdickman70@columbia.edu,73.18.95.119,F3:DD:EF:5F:AD:02,error: Illegal quoting in line 1.,SELECT * FROM *
+Spaghetti Squash,45,bmcadam71@sohu.com,148.131.86.124,BD:B5:D9:15:7C:6D,error: Illegal quoting in line 1.,SELECT * FROM *
+Pastry - Trippleberry Muffin - Mini,81,dhadny72@google.nl,213.130.227.62,41:05:FD:93:F4:0D,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread Base - Toscano,61,ksmitten73@moonfruit.com,125.72.50.177,F4:9F:67:F1:8E:30,error: Illegal quoting in line 1.,SELECT * FROM *
+Cup - 8oz Coffee Perforated,56,estoffels74@elegantthemes.com,57.222.60.3,F1:A8:EB:F2:1A:CF,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Zinfandel California 2002,3,nmusgrave75@youku.com,76.1.94.119,78:43:35:AE:87:D5,error: Illegal quoting in line 1.,SELECT * FROM *
+Ecolab - Hand Soap Form Antibac,16,nswaile76@cyberchimps.com,147.111.156.65,03:06:68:C9:B0:AF,error: Illegal quoting in line 1.,SELECT * FROM *
+Goldschalger,68,tkruschov77@loc.gov,9.7.201.128,02:0C:BE:5F:25:CF,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - White, Pinot Grigio",97,eevreux78@altervista.org,53.105.57.245,E1:B3:04:6E:CC:26,error: Illegal quoting in line 1.,SELECT * FROM *
+Kohlrabi,4,djaggli79@nih.gov,181.128.126.71,4B:E6:07:78:9E:D7,error: Illegal quoting in line 1.,SELECT * FROM *
+Mix Pina Colada,65,lkleinmann7a@jugem.jp,24.100.98.243,B5:A2:3B:D5:B4:83,error: Illegal quoting in line 1.,SELECT * FROM *
+Lid Tray - 16in Dome,48,rseeney7b@reference.com,202.176.23.175,10:CC:27:12:79:7C,error: Illegal quoting in line 1.,SELECT * FROM *
+Sambuca - Opal Nera,0,rtarling7c@ezinearticles.com,52.197.104.60,FA:1C:8D:27:7E:B3,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Petit Baguette,59,rmartinovsky7d@msu.edu,219.185.169.114,F7:A4:CF:BA:19:14,error: Illegal quoting in line 1.,SELECT * FROM *
+"Onions - Dried, Chopped",9,mmcandrew7e@arstechnica.com,79.166.21.113,4D:9F:F6:60:02:49,error: Illegal quoting in line 1.,SELECT * FROM *
+"Vinegar - Balsamic, White",84,stremmil7f@umich.edu,35.44.59.60,F8:31:C4:E5:BB:4B,error: Illegal quoting in line 1.,SELECT * FROM *
+Container - Foam Dixie 12 Oz,48,cpenkethman7g@amazon.co.uk,234.181.216.177,53:90:AE:BA:87:6C,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Sake,61,jkemmet7h@wordpress.com,129.214.187.167,89:DB:39:63:31:36,error: Illegal quoting in line 1.,SELECT * FROM *
+"Oil - Truffle, White",8,gblakeman7i@vinaora.com,201.57.199.208,11:90:FB:A0:71:FD,error: Illegal quoting in line 1.,SELECT * FROM *
+Sugar - Invert,76,lcouves7j@cnn.com,84.21.120.134,12:DB:4B:86:31:56,error: Illegal quoting in line 1.,SELECT * FROM *
+Mix - Cocktail Ice Cream,43,nlondon7k@delicious.com,66.221.168.98,0F:DD:D4:1F:47:F4,error: Illegal quoting in line 1.,SELECT * FROM *
+Pasta - Fusili Tri - Coloured,36,rtodeo7l@hud.gov,28.19.92.235,AF:CB:E3:00:1D:26,error: Illegal quoting in line 1.,SELECT * FROM *
+Tomato - Tricolor Cherry,95,gphythien7m@tripod.com,129.109.55.86,E3:EA:7A:69:B4:EA,error: Illegal quoting in line 1.,SELECT * FROM *
+Cleaner - Comet,16,mmariel7n@people.com.cn,216.66.48.130,6D:A8:FA:F4:6B:29,error: Illegal quoting in line 1.,SELECT * FROM *
+"Nut - Chestnuts, Whole",66,ryakolev7o@reverbnation.com,154.78.75.218,15:A7:05:02:A6:16,error: Illegal quoting in line 1.,SELECT * FROM *
+"Cod - Salted, Boneless",53,sschermick7p@intel.com,11.209.90.51,D4:6F:65:87:B2:4D,error: Illegal quoting in line 1.,SELECT * FROM *
+Muffin Mix - Corn Harvest,0,eewart7q@businesswire.com,216.80.167.31,A7:AB:97:00:F5:78,error: Illegal quoting in line 1.,SELECT * FROM *
+Oil - Margarine,77,oscardifield7r@networksolutions.com,95.223.58.220,FB:C4:5E:E1:D8:DD,error: Illegal quoting in line 1.,SELECT * FROM *
+Drambuie,61,lmeiklem7s@goodreads.com,248.47.52.108,32:BD:E7:8E:C8:94,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Bourgogne 2002, La",2,cbansal7t@cnet.com,112.45.108.79,69:9F:E9:B4:8D:80,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Mix,23,llindemann7u@bandcamp.com,173.252.170.198,23:6C:4D:19:57:06,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Cheddar With Claret,58,eforth7v@economist.com,132.41.70.114,77:AD:07:66:59:C5,error: Illegal quoting in line 1.,SELECT * FROM *
+Venison - Striploin,14,ffonso7w@europa.eu,101.12.24.89,CB:71:46:F3:6B:B9,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Cheddar With Claret,61,jgammack7x@foxnews.com,213.163.236.254,78:73:E8:1B:07:A1,error: Illegal quoting in line 1.,SELECT * FROM *
+Pork Loin Bine - In Frenched,26,gmuat7y@unicef.org,226.157.234.253,93:40:40:76:4C:98,error: Illegal quoting in line 1.,SELECT * FROM *
+Lid Tray - 12in Dome,87,msallarie7z@vistaprint.com,35.128.81.255,73:79:83:72:87:2A,error: Illegal quoting in line 1.,SELECT * FROM *
+Pepsi - 600ml,44,pblanque80@apache.org,60.205.186.189,B6:8E:77:B8:7A:D4,error: Illegal quoting in line 1.,SELECT * FROM *
+Shrimp - Black Tiger 13/15,51,mkettridge81@pagesperso-orange.fr,155.234.21.36,7A:05:1E:F1:A1:8C,error: Illegal quoting in line 1.,SELECT * FROM *
+"Veal - Brisket, Provimi,bnls",52,jpatrickson82@github.io,139.138.19.246,62:E9:36:31:EF:1E,error: Illegal quoting in line 1.,SELECT * FROM *
+Grand Marnier,60,mpermain83@hp.com,185.229.215.182,EA:4A:1E:FA:61:96,error: Illegal quoting in line 1.,SELECT * FROM *
+"Oil - Olive, Extra Virgin",35,ikeilty84@abc.net.au,253.76.192.194,DE:DB:B4:5A:9F:D1,error: Illegal quoting in line 1.,SELECT * FROM *
+"Lemonade - Kiwi, 591 Ml",68,hstiell85@networkadvertising.org,224.132.222.181,E6:1F:2F:F7:B8:D8,error: Illegal quoting in line 1.,SELECT * FROM *
+"Cake Circle, Paprus",86,icolquit86@uiuc.edu,22.9.224.48,2A:49:35:70:1F:BA,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - White, Lindemans Bin 95",89,earmytage87@oaic.gov.au,221.184.241.71,A4:49:5F:C7:12:08,error: Illegal quoting in line 1.,SELECT * FROM *
+Pants Custom Dry Clean,15,gmatiebe88@jigsy.com,184.14.97.138,A2:99:A1:7D:17:98,error: Illegal quoting in line 1.,SELECT * FROM *
+Sobe - Cranberry Grapefruit,70,agasticke89@ow.ly,109.143.97.84,C2:B8:FE:AF:CE:AA,error: Illegal quoting in line 1.,SELECT * FROM *
+Veal - Eye Of Round,19,elatimer8a@about.com,222.171.185.136,21:D8:8E:F6:7B:D2,error: Illegal quoting in line 1.,SELECT * FROM *
+Skirt - 29 Foot,43,rliebrecht8b@webnode.com,62.172.65.121,F8:B7:A5:2E:08:9C,error: Illegal quoting in line 1.,SELECT * FROM *
+Raisin - Dark,78,dlamming8c@odnoklassniki.ru,175.251.220.99,2D:A9:E8:FE:B7:86,error: Illegal quoting in line 1.,SELECT * FROM *
+Food Colouring - Red,40,avila8d@ucsd.edu,200.25.103.233,A8:C0:07:54:79:18,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Tribal Sauvignon,26,bkunneke8e@google.com.br,19.235.108.101,DC:95:D3:90:E7:D4,error: Illegal quoting in line 1.,SELECT * FROM *
+Vinegar - Cider,36,aweaben8f@freewebs.com,115.92.57.143,DE:37:66:21:FB:60,error: Illegal quoting in line 1.,SELECT * FROM *
+Icecream Cone - Areo Chocolate,57,fcampo8g@zdnet.com,210.18.11.247,4C:47:D7:80:63:E4,error: Illegal quoting in line 1.,SELECT * FROM *
+"Coconut - Shredded, Unsweet",87,syashunin8h@google.com.hk,223.69.77.252,70:E2:D1:7B:57:06,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beans - Kidney, Red Dry",10,edefreyne8i@engadget.com,33.140.86.233,0F:97:4E:87:97:E6,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beef - Tongue, Cooked",45,hjudson8j@wikimedia.org,156.153.129.242,D0:86:24:9E:24:48,error: Illegal quoting in line 1.,SELECT * FROM *
+Lobak,37,rsplain8k@tripod.com,63.71.4.80,5B:04:F6:C2:1F:80,error: Illegal quoting in line 1.,SELECT * FROM *
+"Split Peas - Green, Dry",3,dwykes8l@skyrock.com,102.244.40.37,2F:90:14:B4:1E:56,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Wyndham Estate Bin 777,57,jnaile8m@hp.com,42.236.144.91,08:6F:D1:DF:E0:82,error: Illegal quoting in line 1.,SELECT * FROM *
+Crab - Meat Combo,93,blidster8n@youtube.com,253.121.158.4,6B:A5:A7:DF:AD:07,error: Illegal quoting in line 1.,SELECT * FROM *
+Quail - Jumbo,24,calfonzo8o@discuz.net,77.40.78.35,89:C5:19:60:B2:D6,error: Illegal quoting in line 1.,SELECT * FROM *
+Cucumber - Pickling Ontario,46,pbellon8p@bluehost.com,248.211.108.247,20:5C:1E:95:3A:8D,error: Illegal quoting in line 1.,SELECT * FROM *
+Crab Brie In Phyllo,76,mbetty8q@newsvine.com,123.149.49.68,EE:5A:65:7C:8C:61,error: Illegal quoting in line 1.,SELECT * FROM *
+Cookie Double Choco,84,kdenacamp8r@wordpress.com,126.187.170.195,9A:AE:44:FD:C6:4C,error: Illegal quoting in line 1.,SELECT * FROM *
+"Soda Water - Club Soda, 355 Ml",18,ktuttiett8s@google.nl,47.50.150.229,01:DF:70:7B:CB:98,error: Illegal quoting in line 1.,SELECT * FROM *
+Banana - Green,64,dneno8t@drupal.org,2.31.173.119,BE:1E:C3:37:92:6A,error: Illegal quoting in line 1.,SELECT * FROM *
+Container - Clear 16 Oz,37,dreedick8u@bloglovin.com,75.245.210.214,C2:B4:4F:86:8E:B4,error: Illegal quoting in line 1.,SELECT * FROM *
+Steam Pan - Half Size Deep,43,dcooke8v@parallels.com,138.78.248.128,A2:C1:27:C7:E3:8B,error: Illegal quoting in line 1.,SELECT * FROM *
+Beef - Striploin,11,nmclarnon8w@howstuffworks.com,60.42.216.14,A0:56:2D:A9:82:81,error: Illegal quoting in line 1.,SELECT * FROM *
+Longos - Chicken Caeser Salad,65,wdowd8x@hud.gov,140.0.62.116,1B:40:D3:BF:B6:D2,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Jaboulet Cotes Du Rhone,71,sbossons8y@barnesandnoble.com,244.15.223.209,4F:6E:4F:67:C3:67,error: Illegal quoting in line 1.,SELECT * FROM *
+Coffee - Cafe Moreno,67,ecopnall8z@weather.com,50.4.143.80,4B:F0:00:03:C5:2B,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Acient Coast Caberne,34,mpentecust90@umich.edu,39.67.69.107,15:4D:9B:3F:AC:13,error: Illegal quoting in line 1.,SELECT * FROM *
+Chicken - Whole Roasting,12,hbowbrick91@bing.com,201.198.96.73,B3:46:DA:4B:B3:E9,error: Illegal quoting in line 1.,SELECT * FROM *
+Jagermeister,5,candreini92@photobucket.com,89.69.48.61,44:E3:AC:8A:B8:AD,error: Illegal quoting in line 1.,SELECT * FROM *
+Bok Choy - Baby,71,sdeveraux93@wordpress.org,21.68.41.148,5B:AF:F9:6E:F3:C6,error: Illegal quoting in line 1.,SELECT * FROM *
+Ham - Procutinni,56,tbruffell94@slate.com,208.89.64.121,DC:2E:0F:DC:4D:46,error: Illegal quoting in line 1.,SELECT * FROM *
+Chocolate - Milk Coating,49,ishine95@hp.com,156.59.33.153,72:5F:10:DE:B4:7D,error: Illegal quoting in line 1.,SELECT * FROM *
+Celery,41,gcallow96@loc.gov,247.80.159.90,F8:5E:4A:00:BE:42,error: Illegal quoting in line 1.,SELECT * FROM *
+Veal - Loin,0,ltaffie97@woothemes.com,99.46.114.243,65:E9:0D:4E:DD:16,error: Illegal quoting in line 1.,SELECT * FROM *
+"Schnappes - Peach, Walkers",91,bivashov98@newsvine.com,28.170.62.123,C8:55:42:2A:9F:81,error: Illegal quoting in line 1.,SELECT * FROM *
+Sobe - Tropical Energy,85,hgorey99@live.com,136.224.53.33,7C:59:69:65:05:76,error: Illegal quoting in line 1.,SELECT * FROM *
+Whmis Spray Bottle Graduated,29,wmcarte9a@mlb.com,239.180.178.60,4C:C2:C8:4A:62:F5,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Sherry Dry Sack, William",91,lrobatham9b@state.tx.us,118.164.247.113,6C:5B:43:CC:08:D0,error: Illegal quoting in line 1.,SELECT * FROM *
+Crackers Cheez It,99,lsanchis9c@oracle.com,214.100.30.0,4F:7C:B9:4A:67:0D,error: Illegal quoting in line 1.,SELECT * FROM *
+Beer - Blue Light,69,smartinot9d@yellowpages.com,106.185.188.43,54:42:B4:63:DA:37,error: Illegal quoting in line 1.,SELECT * FROM *
+Melon - Cantaloupe,92,mgallo9e@cdc.gov,34.75.70.130,96:AC:E6:E6:A8:7D,error: Illegal quoting in line 1.,SELECT * FROM *
+Foam Tray S2,0,bwhitington9f@smh.com.au,110.66.117.226,4A:63:4F:4D:32:C2,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beef - Chuck, Boneless",18,sbanville9g@freewebs.com,59.10.104.237,BE:9B:BB:CA:F6:BD,error: Illegal quoting in line 1.,SELECT * FROM *
+Sachet,34,bstorrs9h@histats.com,22.17.38.182,33:8F:F6:FB:52:EC,error: Illegal quoting in line 1.,SELECT * FROM *
+"Tart Shells - Sweet, 2",6,mturbitt9i@globo.com,106.142.107.147,6B:09:31:19:3A:3D,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce - Cranberry,82,fliffe9j@infoseek.co.jp,231.213.12.219,F4:39:84:C6:4C:7E,error: Illegal quoting in line 1.,SELECT * FROM *
+Beer - Camerons Auburn,65,adanilovich9k@delicious.com,240.204.145.57,0B:C0:79:3B:D0:DB,error: Illegal quoting in line 1.,SELECT * FROM *
+Yogurt - Plain,53,jfihelly9l@youtu.be,60.189.233.181,73:74:91:31:76:FA,error: Illegal quoting in line 1.,SELECT * FROM *
+"Liqueur Banana, Ramazzotti",63,mwilcott9m@accuweather.com,170.180.89.140,77:81:3B:CF:08:0E,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Red Oakridge Merlot,47,koverington9n@lycos.com,77.18.30.145,B6:76:25:CE:09:53,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce - Salsa,54,kearwicker9o@ucla.edu,28.136.90.145,B7:A3:02:06:77:4B,error: Illegal quoting in line 1.,SELECT * FROM *
+Peas - Frozen,56,eborland9p@ovh.net,124.101.167.159,89:EF:41:CC:49:5D,error: Illegal quoting in line 1.,SELECT * FROM *
+Water - Perrier,71,wmcnerlin9q@state.gov,24.5.61.225,5D:0F:66:A9:E4:1D,error: Illegal quoting in line 1.,SELECT * FROM *
+Coffee - 10oz Cup 92961,99,ssweynson9r@ocn.ne.jp,46.3.142.21,91:A4:DB:83:98:16,error: Illegal quoting in line 1.,SELECT * FROM *
+Compound - Raspberry,84,lspurriar9s@wired.com,41.146.175.130,FC:61:3F:F9:F5:0F,error: Illegal quoting in line 1.,SELECT * FROM *
+Chocolate - Unsweetened,24,mpankhurst9t@digg.com,249.210.170.159,BB:02:13:FA:F2:89,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Gouda,93,ddudman9u@mashable.com,104.137.186.236,F1:86:77:94:BC:1F,error: Illegal quoting in line 1.,SELECT * FROM *
+Edible Flower - Mixed,81,estockdale9v@webs.com,150.48.181.224,38:D0:CA:63:42:1C,error: Illegal quoting in line 1.,SELECT * FROM *
+Tomato - Green,70,agilhool9w@posterous.com,12.238.184.117,F1:A3:A6:22:08:51,error: Illegal quoting in line 1.,SELECT * FROM *
+Napkin White - Starched,99,ndiggens9x@house.gov,196.165.84.18,D7:99:D2:3E:88:A0,error: Illegal quoting in line 1.,SELECT * FROM *
+Rabbit - Frozen,8,hsabberton9y@tuttocitta.it,18.0.169.219,CA:F8:DF:9F:A7:FC,error: Illegal quoting in line 1.,SELECT * FROM *
+"Shrimp, Dried, Small / Lb",28,gbriereton9z@cisco.com,1.103.250.60,C4:AA:87:BA:A5:9A,error: Illegal quoting in line 1.,SELECT * FROM *
+Baking Soda,57,nupstonea0@wikimedia.org,78.147.34.82,56:61:E3:66:0C:37,error: Illegal quoting in line 1.,SELECT * FROM *
+Hand Towel,3,klowdwella1@vkontakte.ru,47.221.176.161,89:B9:A2:12:77:B7,error: Illegal quoting in line 1.,SELECT * FROM *
+Truffle Paste,89,sskettlesa2@samsung.com,74.233.124.173,E4:54:5A:9E:F4:88,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Grana Padano,46,hduffetta3@ameblo.jp,147.178.215.116,32:47:3E:99:BB:8C,error: Illegal quoting in line 1.,SELECT * FROM *
+Pepperoni Slices,79,aeicka4@reference.com,227.252.185.3,79:4D:C3:0F:1C:D1,error: Illegal quoting in line 1.,SELECT * FROM *
+Hagen Daza - Dk Choocolate,47,lgrichukhanova5@shop-pro.jp,90.230.177.54,AE:65:93:F2:62:71,error: Illegal quoting in line 1.,SELECT * FROM *
+Ice Cream Bar - Drumstick,50,lkaminga6@t.co,23.171.113.203,27:CD:29:68:BC:5A,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Sogrape Mateus Rose,72,pjaquemara7@netvibes.com,123.58.175.183,70:07:C4:F0:B0:84,error: Illegal quoting in line 1.,SELECT * FROM *
+Table Cloth 81x81 White,49,cgalfoura8@exblog.jp,111.223.26.179,0E:D5:C2:96:73:82,error: Illegal quoting in line 1.,SELECT * FROM *
+Ginger - Crystalized,51,bbrewertona9@google.ca,226.193.138.121,C8:83:20:7C:EE:DB,error: Illegal quoting in line 1.,SELECT * FROM *
+Blue Curacao - Marie Brizard,41,cwessingaa@nifty.com,56.180.203.251,2A:09:74:FA:4F:4B,error: Illegal quoting in line 1.,SELECT * FROM *
+Beef Flat Iron Steak,66,hpurtellab@tinypic.com,123.245.82.254,06:3D:AD:4C:8B:BD,error: Illegal quoting in line 1.,SELECT * FROM *
+Breadfruit,92,hchesherac@hexun.com,191.223.252.95,7A:FD:CD:09:39:AE,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pork - Ham, Virginia",28,fbuckbyad@redcross.org,188.116.82.66,B6:1C:76:3C:2E:42,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Mascarpone,62,bivannikovae@unesco.org,239.203.60.174,C9:C0:6B:17:D9:92,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Bourgogne 2002, La",10,sjaneczekaf@reuters.com,65.171.217.104,9F:74:44:73:F4:C9,error: Illegal quoting in line 1.,SELECT * FROM *
+Cookie Choc,54,dthamsag@virginia.edu,74.2.83.219,AA:29:45:8E:1A:7C,error: Illegal quoting in line 1.,SELECT * FROM *
+Flour Pastry Super Fine,18,lkleinholzah@mapy.cz,180.170.45.252,27:4B:D5:27:F3:96,error: Illegal quoting in line 1.,SELECT * FROM *
+Veal - Osso Bucco,84,cokiai@businesswire.com,89.13.199.166,A0:11:A4:1B:0D:BE,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beans - Long, Chinese",47,vfrielaj@bigcartel.com,92.241.75.198,F0:7E:55:BF:33:AB,error: Illegal quoting in line 1.,SELECT * FROM *
+Apple - Northern Spy,52,eturvilleak@java.com,180.137.125.186,F9:93:45:61:E9:B2,error: Illegal quoting in line 1.,SELECT * FROM *
+Flavouring - Rum,11,jpounsettal@jalbum.net,137.172.91.183,17:C4:EB:EF:11:8C,error: Illegal quoting in line 1.,SELECT * FROM *
+Shortbread - Cookie Crumbs,23,sgarvanam@pen.io,222.127.20.228,71:20:63:6D:51:BF,error: Illegal quoting in line 1.,SELECT * FROM *
+Relish,44,pciottian@berkeley.edu,28.191.155.203,3A:7D:29:17:1A:BA,error: Illegal quoting in line 1.,SELECT * FROM *
+"Vermouth - White, Cinzano",81,wcreeberao@msu.edu,238.143.210.152,5B:9B:1F:EB:5B:04,error: Illegal quoting in line 1.,SELECT * FROM *
+Pork Salted Bellies,78,twalpoleap@naver.com,35.33.18.49,7C:E8:71:03:65:37,error: Illegal quoting in line 1.,SELECT * FROM *
+Ice Cream Bar - Hagen Daz,86,aburraq@list-manage.com,7.155.92.116,32:D0:28:B0:57:E5,error: Illegal quoting in line 1.,SELECT * FROM *
+"Red Snapper - Fresh, Whole",73,mbundockar@va.gov,89.26.11.178,CB:7D:D0:EE:20:DB,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce - Hollandaise,63,psnowballas@miitbeian.gov.cn,67.164.72.53,5E:45:B2:BC:78:3E,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pepper - Red, Finger Hot",90,atorricellaat@washington.edu,48.42.115.24,0C:E4:91:17:DF:3F,error: Illegal quoting in line 1.,SELECT * FROM *
+Tea - Apple Green Tea,21,ncouserau@baidu.com,43.46.43.230,BB:85:FC:D8:C0:73,error: Illegal quoting in line 1.,SELECT * FROM *
+Truffle - Peelings,14,lmacandreisav@rambler.ru,246.5.216.47,F0:E7:B2:37:77:41,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Olive Dinner Roll,75,ejozefaw@alibaba.com,218.212.196.27,AE:E4:98:65:12:80,error: Illegal quoting in line 1.,SELECT * FROM *
+Blouse / Shirt / Sweater,10,shinschax@stumbleupon.com,47.200.89.94,AA:29:60:D0:79:40,error: Illegal quoting in line 1.,SELECT * FROM *
+Ham - Virginia,1,clapishay@disqus.com,93.111.20.118,97:CA:83:BE:B1:77,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beets - Candy Cane, Organic",44,nrosengartenaz@tripadvisor.com,158.210.189.74,30:78:9B:EE:96:2A,error: Illegal quoting in line 1.,SELECT * FROM *
+Honey - Lavender,81,elarmetb0@over-blog.com,93.188.46.67,69:ED:42:6F:BE:1C,error: Illegal quoting in line 1.,SELECT * FROM *
+Onions - Red Pearl,69,ldowngateb1@hatena.ne.jp,15.191.20.209,FD:BB:88:32:24:16,error: Illegal quoting in line 1.,SELECT * FROM *
+Clam - Cherrystone,37,mbeldonb2@nhs.uk,65.101.41.212,D5:1E:C8:86:11:F5,error: Illegal quoting in line 1.,SELECT * FROM *
+Cut Wakame - Hanawakaba,74,lgregorowiczb3@google.com.br,155.188.152.224,EE:4A:65:BF:51:93,error: Illegal quoting in line 1.,SELECT * FROM *
+Yeast Dry - Fleischman,82,ameccob4@naver.com,74.90.161.176,90:0C:93:25:2D:CC,error: Illegal quoting in line 1.,SELECT * FROM *
+Quail - Jumbo,67,jbinnallb5@columbia.edu,146.238.215.209,1B:9B:2F:68:6F:CC,error: Illegal quoting in line 1.,SELECT * FROM *
+Scampi Tail,45,jmatchittb6@goo.ne.jp,33.28.8.61,07:DC:D6:86:27:03,error: Illegal quoting in line 1.,SELECT * FROM *
+Crab - Meat Combo,37,efennickb7@amazon.co.jp,70.186.76.199,D7:EF:67:00:55:30,error: Illegal quoting in line 1.,SELECT * FROM *
+"Juice - Apple, 1.36l",64,sgilbertb8@goo.ne.jp,215.177.123.81,60:B0:7B:08:41:2C,error: Illegal quoting in line 1.,SELECT * FROM *
+Chevril,37,cearnshawb9@skyrock.com,121.147.229.222,AA:13:1E:C9:80:55,error: Illegal quoting in line 1.,SELECT * FROM *
+Table Cloth 62x114 Colour,27,dstrettonba@gmpg.org,39.91.138.0,10:E9:0A:47:A1:BB,error: Illegal quoting in line 1.,SELECT * FROM *
+"Bread - Roll, Soft White Round",24,thowdenbb@slate.com,74.233.195.159,4B:33:AC:CA:FA:A5,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Niagara,vqa Reisling",99,fcolambc@boston.com,23.52.226.14,E1:A7:19:BE:02:6E,error: Illegal quoting in line 1.,SELECT * FROM *
+Yucca,54,wbraidonbd@prnewswire.com,153.14.54.149,00:6F:ED:16:BA:5C,error: Illegal quoting in line 1.,SELECT * FROM *
+Food Colouring - Green,31,nkirkebe@wikispaces.com,138.27.47.158,08:1C:F7:E4:81:1E,error: Illegal quoting in line 1.,SELECT * FROM *
+Soup - Campbells Beef Stew,73,ldunsirebf@angelfire.com,207.184.1.69,D3:B7:9C:56:E6:01,error: Illegal quoting in line 1.,SELECT * FROM *
+Milk Powder,92,psouthersbg@webs.com,129.33.5.38,D0:CE:1A:16:07:14,error: Illegal quoting in line 1.,SELECT * FROM *
+Coffee - Cafe Moreno,11,tgadsonbh@feedburner.com,51.236.118.134,F6:78:20:B6:FF:28,error: Illegal quoting in line 1.,SELECT * FROM *
+"Crab - Blue, Frozen",15,ccorahbi@imgur.com,133.151.121.100,F5:E2:F5:D5:99:4C,error: Illegal quoting in line 1.,SELECT * FROM *
+Lettuce - Green Leaf,63,igullanbj@sfgate.com,109.13.187.114,A0:46:62:5B:61:9E,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Acient Coast Caberne,72,dantleybk@rakuten.co.jp,22.158.80.39,69:FC:DE:D8:4E:A4,error: Illegal quoting in line 1.,SELECT * FROM *
+Wasabi Powder,44,efranceschibl@elpais.com,193.21.123.222,B3:EA:B0:92:6B:73,error: Illegal quoting in line 1.,SELECT * FROM *
+Rabbit - Saddles,90,schinnockbm@sina.com.cn,37.243.48.104,3D:41:94:73:D8:33,error: Illegal quoting in line 1.,SELECT * FROM *
+Lamb Rack Frenched Australian,29,scrossbybn@abc.net.au,91.124.64.109,89:1F:7D:32:76:66,error: Illegal quoting in line 1.,SELECT * FROM *
+Flour - Cake,83,lfannerbo@so-net.ne.jp,39.229.211.69,20:29:2F:70:DA:C5,error: Illegal quoting in line 1.,SELECT * FROM *
+Peach - Fresh,27,aspringbp@wp.com,82.233.246.216,2B:42:91:77:72:1C,error: Illegal quoting in line 1.,SELECT * FROM *
+Cumin - Whole,30,mgiffordbq@unc.edu,107.126.249.208,49:07:9F:BB:A8:D3,error: Illegal quoting in line 1.,SELECT * FROM *
+Potatoes - Mini White 3 Oz,97,blyallbr@addthis.com,150.85.61.116,07:EB:63:1D:48:9A,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Taleggio D.o.p.,36,rfeybs@stumbleupon.com,187.202.131.2,BE:C8:96:68:D6:CF,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Gato Negro Cabernet,77,rlendenbt@lycos.com,196.191.227.131,EE:5E:D9:82:33:69,error: Illegal quoting in line 1.,SELECT * FROM *
+Irish Cream - Baileys,80,dheakerbu@marketwatch.com,248.71.190.240,46:A4:0A:DA:2C:C2,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Victor Et Berthold,95,drothertbv@xrea.com,87.87.61.136,76:9D:7A:48:61:5F,error: Illegal quoting in line 1.,SELECT * FROM *
+Sauce - Caesar Dressing,8,ematzbw@wikispaces.com,223.161.25.115,F4:6B:59:9B:47:D0,error: Illegal quoting in line 1.,SELECT * FROM *
+Beef Tenderloin Aaa,4,dswannickbx@privacy.gov.au,103.173.234.26,7B:70:59:93:C4:00,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Magnotta - Cab Franc,65,ccaigerby@plala.or.jp,146.60.86.110,E0:AE:C3:A7:40:30,error: Illegal quoting in line 1.,SELECT * FROM *
+Chicken - Leg / Back Attach,2,joadesbz@altervista.org,216.249.171.248,ED:B8:DB:D6:9B:98,error: Illegal quoting in line 1.,SELECT * FROM *
+Tarragon - Fresh,81,darboinec0@ca.gov,197.198.244.34,B8:A6:16:F7:4D:49,error: Illegal quoting in line 1.,SELECT * FROM *
+Ginger - Pickled,16,kstrowtherc1@patch.com,19.139.248.229,2D:98:11:AA:B8:C9,error: Illegal quoting in line 1.,SELECT * FROM *
+Pepper - Scotch Bonnet,72,wdonisoc2@skyrock.com,32.164.45.246,D6:E5:88:6E:A5:E9,error: Illegal quoting in line 1.,SELECT * FROM *
+Passion Fruit,13,plaveryc3@google.com.hk,213.183.109.185,05:2B:8A:4C:2E:2A,error: Illegal quoting in line 1.,SELECT * FROM *
+Cheese - Gorgonzola,98,gcowndleyc4@gmpg.org,213.253.70.249,07:58:F1:E4:4E:BF,error: Illegal quoting in line 1.,SELECT * FROM *
+Orange - Tangerine,15,hsijmonsc5@cdc.gov,177.29.246.169,D5:16:23:9F:BA:B4,error: Illegal quoting in line 1.,SELECT * FROM *
+Lettuce - Romaine,3,mmachenc6@dion.ne.jp,142.65.59.241,B8:51:10:84:77:94,error: Illegal quoting in line 1.,SELECT * FROM *
+Clams - Bay,30,esouthamc7@tinyurl.com,214.81.223.4,92:05:D0:0D:60:9B,error: Illegal quoting in line 1.,SELECT * FROM *
+Teriyaki Sauce,8,bnorvillec8@prlog.org,147.60.223.29,1A:A7:84:8C:8C:6F,error: Illegal quoting in line 1.,SELECT * FROM *
+French Pastries,88,jcathersidesc9@hubpages.com,71.182.174.164,8D:0B:AB:09:7E:CC,error: Illegal quoting in line 1.,SELECT * FROM *
+"Rosemary - Primerba, Paste",95,ascryneca@sina.com.cn,203.36.57.177,73:A1:AD:90:E5:23,error: Illegal quoting in line 1.,SELECT * FROM *
+Muffin - Blueberry Individual,2,mdockrellcb@hao123.com,0.46.82.187,22:7E:AD:25:01:F2,error: Illegal quoting in line 1.,SELECT * FROM *
+"Fish - Halibut, Cold Smoked",6,ehawkincc@rediff.com,98.242.120.160,37:35:77:32:7D:8C,error: Illegal quoting in line 1.,SELECT * FROM *
+Beer - Upper Canada Lager,66,jlerhinancd@cbslocal.com,128.15.220.79,0E:F3:AC:56:FC:60,error: Illegal quoting in line 1.,SELECT * FROM *
+Spinach - Frozen,88,pfredice@harvard.edu,144.213.27.161,A1:E2:5F:8D:38:A0,error: Illegal quoting in line 1.,SELECT * FROM *
+Pie Pecan,35,amardencf@etsy.com,63.190.198.93,FB:9E:3C:96:68:43,error: Illegal quoting in line 1.,SELECT * FROM *
+"Vermouth - Sweet, Cinzano",100,diacoviellicg@ocn.ne.jp,146.42.144.179,B5:F0:A5:E5:FE:4F,error: Illegal quoting in line 1.,SELECT * FROM *
+Piping Jelly - All Colours,41,hvigursch@lulu.com,120.76.108.99,D5:05:EC:49:28:B9,error: Illegal quoting in line 1.,SELECT * FROM *
+Broom Handle,29,dtanteci@china.com.cn,44.28.68.156,9C:93:FE:AA:D4:B4,error: Illegal quoting in line 1.,SELECT * FROM *
+Ice Cream - Strawberry,79,iballingalcj@marriott.com,143.91.156.46,BF:A6:04:0A:52:31,error: Illegal quoting in line 1.,SELECT * FROM *
+"Sauce - Soya, Light",76,mandersonck@columbia.edu,143.69.19.40,68:E7:92:E4:73:0C,error: Illegal quoting in line 1.,SELECT * FROM *
+Pork - Belly Fresh,45,gquittondencl@wisc.edu,198.143.26.135,8C:B4:0D:29:FA:D5,error: Illegal quoting in line 1.,SELECT * FROM *
+Bar - Granola Trail Mix Fruit Nut,68,hchardincm@ebay.com,236.216.192.60,76:4A:BB:9F:50:30,error: Illegal quoting in line 1.,SELECT * FROM *
+Muffin Orange Individual,92,nwhitebreadcn@nasa.gov,136.213.103.110,87:8C:77:80:4B:1F,error: Illegal quoting in line 1.,SELECT * FROM *
+"Lemonade - Mandarin, 591 Ml",58,aeastwellco@eventbrite.com,165.103.53.11,AC:7E:0D:D3:68:EE,error: Illegal quoting in line 1.,SELECT * FROM *
+Salmon - Canned,21,dbentoncp@icio.us,243.97.61.141,CF:2C:33:0C:92:4B,error: Illegal quoting in line 1.,SELECT * FROM *
+Jameson Irish Whiskey,79,espinnacecq@admin.ch,247.113.163.34,0A:DB:C1:4C:27:79,error: Illegal quoting in line 1.,SELECT * FROM *
+Oil - Margarine,31,rkipplingcr@meetup.com,253.151.142.10,C3:BF:DF:5F:F8:08,error: Illegal quoting in line 1.,SELECT * FROM *
+Broom - Corn,32,dfenwickcs@google.ca,182.249.243.133,BB:A5:79:D3:DD:4F,error: Illegal quoting in line 1.,SELECT * FROM *
+"Lobster - Tail, 3 - 4 Oz",74,rstronackct@vk.com,67.9.135.151,AF:15:AE:2F:A2:12,error: Illegal quoting in line 1.,SELECT * FROM *
+Lid Coffee Cup 8oz Blk,78,danwylcu@artisteer.com,37.151.221.115,9F:7B:03:CB:8C:53,error: Illegal quoting in line 1.,SELECT * FROM *
+"Lobster - Baby, Boiled",33,ebraidwoodcv@ovh.net,201.98.74.196,BA:3E:D4:33:E5:11,error: Illegal quoting in line 1.,SELECT * FROM *
+Pepper - Gypsy Pepper,74,hpentlandcw@unc.edu,71.248.112.87,B6:58:A8:5D:0B:86,error: Illegal quoting in line 1.,SELECT * FROM *
+"Cheese - Brie,danish",28,dpugsleycx@china.com.cn,63.171.101.57,72:57:0B:1D:39:E6,error: Illegal quoting in line 1.,SELECT * FROM *
+"Shrimp - 16 - 20 Cooked, Peeled",83,bivaincy@craigslist.org,126.239.243.213,20:8A:D0:B0:22:CE,error: Illegal quoting in line 1.,SELECT * FROM *
+Poppy Seed,27,rgoschalkcz@cargocollective.com,246.180.113.17,6F:0B:B9:8F:39:0C,error: Illegal quoting in line 1.,SELECT * FROM *
+Ice Cream Bar - Oreo Cone,41,gpollettd0@google.com.br,98.14.207.158,C4:0B:1D:A7:BE:28,error: Illegal quoting in line 1.,SELECT * FROM *
+"Red Snapper - Fillet, Skin On",81,ohantuschd1@bizjournals.com,130.132.179.171,14:39:0F:B7:89:B9,error: Illegal quoting in line 1.,SELECT * FROM *
+Cactus Pads,21,fbenazetd2@cnn.com,89.163.93.62,1A:30:9D:53:F2:80,error: Illegal quoting in line 1.,SELECT * FROM *
+Bandage - Finger Cots,17,lmoliand3@instagram.com,250.193.156.166,A5:35:30:85:55:1F,error: Illegal quoting in line 1.,SELECT * FROM *
+Toamtoes 6x7 Select,55,llumberd4@walmart.com,92.1.129.34,9C:0C:22:8C:D1:B2,error: Illegal quoting in line 1.,SELECT * FROM *
+Cookie Dough - Peanut Butter,39,bpontind5@admin.ch,15.112.119.103,E7:63:06:DD:4C:8D,error: Illegal quoting in line 1.,SELECT * FROM *
+Energy Drink Red Bull,78,flindenstraussd6@yandex.ru,213.60.211.183,F0:68:B6:E1:67:19,error: Illegal quoting in line 1.,SELECT * FROM *
+"Water - Mineral, Natural",7,aodwyerd7@example.com,214.152.48.208,35:3C:D4:7A:7C:35,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Crusty Italian Poly,3,gheikkinend8@chicagotribune.com,6.33.8.219,B2:C1:EF:D0:F0:DF,error: Illegal quoting in line 1.,SELECT * FROM *
+Gatorade - Orange,5,schurchd9@wordpress.org,189.238.192.177,89:D9:4F:8F:7D:2A,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Vidal Icewine Magnotta,20,tcoaseda@yale.edu,90.165.71.238,A4:30:A6:A1:CE:9B,error: Illegal quoting in line 1.,SELECT * FROM *
+Table Cloth 54x72 Colour,9,eimortsdb@nydailynews.com,108.3.171.96,30:B5:8E:B7:1F:FE,error: Illegal quoting in line 1.,SELECT * FROM *
+Artichoke - Fresh,27,mstronghilldc@craigslist.org,196.196.39.0,A3:ED:19:45:62:82,error: Illegal quoting in line 1.,SELECT * FROM *
+Chevril,30,wcharkerdd@bing.com,95.192.241.230,B8:A2:81:8E:81:41,error: Illegal quoting in line 1.,SELECT * FROM *
+"Beans - Long, Chinese",40,otorrijosde@google.it,221.133.76.36,85:F1:3A:8C:77:AA,error: Illegal quoting in line 1.,SELECT * FROM *
+Pear - Asian,20,chenriedf@lulu.com,178.114.124.240,6E:F1:10:4D:CE:E3,error: Illegal quoting in line 1.,SELECT * FROM *
+Kumquat,42,skytleydg@amazonaws.com,147.76.40.220,56:0C:FF:64:9E:F6,error: Illegal quoting in line 1.,SELECT * FROM *
+"Syrup - Monin, Amaretta",16,gchatbanddh@elpais.com,78.194.141.194,73:DB:50:44:8A:0B,error: Illegal quoting in line 1.,SELECT * FROM *
+Oil - Grapeseed Oil,57,rsoppethdi@fotki.com,214.7.41.133,D0:14:29:56:DA:16,error: Illegal quoting in line 1.,SELECT * FROM *
+"Pepper - Green, Chili",40,gfernandesdj@ameblo.jp,126.149.191.7,82:42:A2:1C:F1:3D,error: Illegal quoting in line 1.,SELECT * FROM *
+Bread - Raisin Walnut Pull,39,nbraunledk@nbcnews.com,74.183.231.248,8F:20:20:75:E2:BF,error: Illegal quoting in line 1.,SELECT * FROM *
+Wine - Wyndham Estate Bin 777,47,dsokelldl@deviantart.com,107.156.149.150,11:D6:16:F4:82:68,error: Illegal quoting in line 1.,SELECT * FROM *
+Snapple - Iced Tea Peach,90,rcammockdm@fema.gov,245.113.81.27,2A:AA:8E:CB:FD:39,error: Illegal quoting in line 1.,SELECT * FROM *
+Watercress,27,rschollerdn@mysql.com,58.118.135.67,B2:2A:61:76:9C:99,error: Illegal quoting in line 1.,SELECT * FROM *
+Cocoa Butter,35,teededo@stumbleupon.com,103.180.44.20,82:DC:88:11:79:73,error: Illegal quoting in line 1.,SELECT * FROM *
+Squash - Guords,49,awyralldp@census.gov,150.144.38.23,46:63:13:73:9E:3B,error: Illegal quoting in line 1.,SELECT * FROM *
+Pastry - Raisin Muffin - Mini,10,frotherydq@feedburner.com,136.31.169.19,87:55:A6:A7:7F:BF,error: Illegal quoting in line 1.,SELECT * FROM *
+"Wine - Bourgogne 2002, La",18,pdearnessdr@geocities.com,97.201.149.233,9D:C6:0E:35:DB:76,error: Illegal quoting in line 1.,SELECT * FROM *
+V8 Splash Strawberry Kiwi,97,aslowlyds@ovh.net,188.214.12.251,03:F8:67:91:B4:70,error: Illegal quoting in line 1.,SELECT * FROM *
+Gooseberry,79,mdannedt@devhub.com,166.30.59.211,02:55:A0:09:C1:86,error: Illegal quoting in line 1.,SELECT * FROM *
+Vaccum Bag - 14x20,13,cnorthindu@purevolume.com,76.67.201.245,04:F6:23:5F:9F:CC,error: Illegal quoting in line 1.,SELECT * FROM *
+"Zucchini - Mini, Green",62,btrodlerdv@tinyurl.com,100.132.26.216,CE:2D:AF:32:01:ED,error: Illegal quoting in line 1.,SELECT * FROM *
