@@ -2,7 +2,7 @@
 
 Test files for the installation and testing of the [RoCaWeb firewall](https://github.com/dakountche/RoCaWeb).
 
-These are old scripts from the Summer 2017 and really need to be reviewed. I plan on doing this once we have a more stable version of RoCaWeb. Do not hesitate to jump in and contribute if you want to!
+> These are old scripts from the Summer 2017 and really need to be reviewed because I was only discovering shell scripting at the time. I plan on doing this once we have a more stable version of RoCaWeb (update the whole thing with Hackazon and add WebGoat as well). Do not hesitate to jump in and contribute if you want to!
 
 ## `rocaweb-scripts/` Directory
 
